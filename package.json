@@ -1,0 +1,12 @@
+{
+  "name": "@is2ei/markdown.js",
+  "scripts": {
+    "lint": "eslint ./",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-plugin-jest": "^23.7.0",
+    "jest": "^25.1.0"
+  }
+}
